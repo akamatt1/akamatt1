@@ -26,9 +26,9 @@ I’m open to collaborating on data analysis and visualization projects that sol
 
 📧 Email: maaffum01@gmail.com
 
-🔗 LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/matt-affum-9501b013b/
 
-💻 Portfolio
+💻 Portfolio: https://akamatt1.github.io/mattaffum.github.io/
 
 <!---
 akamatt1/akamatt1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
