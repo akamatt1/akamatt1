@@ -72,7 +72,7 @@ href="https://www.linkedin.com/in/matt-affum-9501b013b/">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Demonstrating SQL Techniques](https://github.com/akamatt1/SQL_Techniques/blob/main/README.md)
 
 <h2>📚Certifications:</h2>
 
